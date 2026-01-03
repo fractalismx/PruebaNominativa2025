@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Bussiness/Bussiness.csproj" Id="4c92bf5c-c19a-453e-b7de-d01debbfe68e" />
   <Project Path="Domain/Domain.csproj" Id="41b9c500-371b-4d3e-a521-d527ab0a6c07" />
   <Project Path="NominativaPrueba/NominativaPrueba.csproj" />
   <Project Path="Persistance/Persistance.csproj" Id="7a08b803-bee9-4a9b-acfa-8d696c6cd944" />
